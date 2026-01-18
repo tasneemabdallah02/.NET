@@ -1,0 +1,54 @@
+﻿body {
+    margin: 0;
+    font-family: "Fanwood Text";
+    background: #e6e3e3;
+}
+/* ABOUT SECTION */
+.about-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin: 40px auto;
+    padding: 60px 70px;
+    background-color: #D9D9D9;
+    border-radius: 30px;
+    /* ظل خفيف ليبين البوكس */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.about-text {
+    width: 40%;
+    font-size: 20px;
+    line-height: 1.7;
+    font-family: "Inria Serif";
+    color: #7a5b53;
+}
+
+.about-images {
+    position: relative;
+    width: 68%;
+    height: 420px;
+    /* على حدود الصور */
+    margin-left: 200px;
+}
+
+    .about-images img {
+        position: absolute;
+        width: 260px;
+        height: 380px;
+        object-fit: cover;
+        border-radius: 22px;
+    }
+
+.img1 {
+    left: 60px;
+    top: 40px;
+    z-index: 3;
+}
+
+.img2 {
+    left: 240px;
+    top: 0;
+    z-index: 2;
+}

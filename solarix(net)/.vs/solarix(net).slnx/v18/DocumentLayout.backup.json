@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\wwwroot\\css\\site - copy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\wwwroot\\css\\site - copy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\shared\\_layoutcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\shared\\_layoutcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\home\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\home\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\wwwroot\\css\\calculator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\wwwroot\\css\\contactus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|c:\\users\\hp\\desktop\\oyil\\asp.net\\solarix(net)\\solarix(net)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1832BC2-2602-BF27-662D-0DF9D01F1AA7}|solarix(net)\\solarix(net).csproj|solutionrelative:solarix(net)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site - Copy.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\site - Copy.css",
+              "RelativeDocumentMoniker": "solarix(net)\\wwwroot\\css\\site - Copy.css",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\site - Copy.css",
+              "RelativeToolTip": "solarix(net)\\wwwroot\\css\\site - Copy.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-18T15:40:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Shared\\_LayoutContact.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\Shared\\_LayoutContact.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Shared\\_LayoutContact.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\Shared\\_LayoutContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T15:40:04.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculator.js",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\js\\Calculator.js",
+              "RelativeDocumentMoniker": "solarix(net)\\wwwroot\\js\\Calculator.js",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\js\\Calculator.js",
+              "RelativeToolTip": "solarix(net)\\wwwroot\\js\\Calculator.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-18T15:34:36.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calculator.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\Calculator.css",
+              "RelativeDocumentMoniker": "solarix(net)\\wwwroot\\css\\Calculator.css",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\Calculator.css",
+              "RelativeToolTip": "solarix(net)\\wwwroot\\css\\Calculator.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-18T15:02:51.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\About.css",
+              "RelativeDocumentMoniker": "solarix(net)\\wwwroot\\css\\About.css",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\About.css",
+              "RelativeToolTip": "solarix(net)\\wwwroot\\css\\About.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-18T14:51:43.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactUs.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\ContactUs.css",
+              "RelativeDocumentMoniker": "solarix(net)\\wwwroot\\css\\ContactUs.css",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\ContactUs.css",
+              "RelativeToolTip": "solarix(net)\\wwwroot\\css\\ContactUs.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-18T14:33:07.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:31:37.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:26:41.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "solarix(net)\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "solarix(net)\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-18T14:06:25.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Program.cs",
+              "RelativeDocumentMoniker": "solarix(net)\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Program.cs",
+              "RelativeToolTip": "solarix(net)\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:06:19.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:06:16.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:06:14.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "solarix(net)\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "solarix(net)\\wwwroot\\css\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-18T14:05:56.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:05:53.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\Calculator.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\Home\\Calculator.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\Calculator.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\Home\\Calculator.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:05:52.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "solarix(net)\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "solarix(net)\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:05:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "solarix(net)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\OYIL\\ASP.NET\\solarix(net)\\solarix(net)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "solarix(net)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:05:37.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
